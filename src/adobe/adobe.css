@@ -1,0 +1,14 @@
+
+.cust_txt_{
+    font-size: 15px;
+    font-weight: 600;
+    color: #666;
+    cursor: default;
+    user-select: none !important;
+    margin-top: 1em;
+    padding: 5px;
+}
+
+.tttop{
+    margin-top: 4.4cm;
+}
